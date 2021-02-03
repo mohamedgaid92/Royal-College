@@ -667,7 +667,7 @@ font-weight: normal;
 }
 @media (max-width:500px){
   .why-choose .quote .name{
-   margin: auto;
+   text-align: center;
   }
 }
  /* end why choose us */
